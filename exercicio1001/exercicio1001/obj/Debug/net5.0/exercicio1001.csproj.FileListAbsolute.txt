@@ -1,0 +1,16 @@
+C:\Users\joelm\Documents\ExerciciosUri\exercicio1001\exercicio1001\obj\Debug\net5.0\exercicio1001.csprojAssemblyReference.cache
+C:\Users\joelm\Documents\ExerciciosUri\exercicio1001\exercicio1001\obj\Debug\net5.0\exercicio1001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelm\Documents\ExerciciosUri\exercicio1001\exercicio1001\obj\Debug\net5.0\exercicio1001.AssemblyInfoInputs.cache
+C:\Users\joelm\Documents\ExerciciosUri\exercicio1001\exercicio1001\obj\Debug\net5.0\exercicio1001.AssemblyInfo.cs
+C:\Users\joelm\Documents\ExerciciosUri\exercicio1001\exercicio1001\obj\Debug\net5.0\exercicio1001.csproj.CoreCompileInputs.cache
+C:\Users\joelm\Documents\ExerciciosUri\exercicio1001\exercicio1001\bin\Debug\net5.0\exercicio1001.exe
+C:\Users\joelm\Documents\ExerciciosUri\exercicio1001\exercicio1001\bin\Debug\net5.0\exercicio1001.deps.json
+C:\Users\joelm\Documents\ExerciciosUri\exercicio1001\exercicio1001\bin\Debug\net5.0\exercicio1001.runtimeconfig.json
+C:\Users\joelm\Documents\ExerciciosUri\exercicio1001\exercicio1001\bin\Debug\net5.0\exercicio1001.runtimeconfig.dev.json
+C:\Users\joelm\Documents\ExerciciosUri\exercicio1001\exercicio1001\bin\Debug\net5.0\exercicio1001.dll
+C:\Users\joelm\Documents\ExerciciosUri\exercicio1001\exercicio1001\bin\Debug\net5.0\ref\exercicio1001.dll
+C:\Users\joelm\Documents\ExerciciosUri\exercicio1001\exercicio1001\bin\Debug\net5.0\exercicio1001.pdb
+C:\Users\joelm\Documents\ExerciciosUri\exercicio1001\exercicio1001\obj\Debug\net5.0\exercicio1001.dll
+C:\Users\joelm\Documents\ExerciciosUri\exercicio1001\exercicio1001\obj\Debug\net5.0\ref\exercicio1001.dll
+C:\Users\joelm\Documents\ExerciciosUri\exercicio1001\exercicio1001\obj\Debug\net5.0\exercicio1001.pdb
+C:\Users\joelm\Documents\ExerciciosUri\exercicio1001\exercicio1001\obj\Debug\net5.0\exercicio1001.genruntimeconfig.cache
